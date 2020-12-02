@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\wisem\source\repos\AOC2020\Day1\Source.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\wisem\source\repos\AOC2020\Day1\Source.cpp(46,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\wisem\source\repos\AOC2020\Day1\Source.cpp(48,26): warning C4018: '<': signed/unsigned mismatch
-  Day1.vcxproj -> C:\Users\wisem\source\repos\AOC2020\Debug\Day1.exe
